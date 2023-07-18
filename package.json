@@ -1,5 +1,5 @@
 {
-  "name": "ai4-abi-decoder",
+  "name": "@ai4secops/ai4-abi-decoder",
   "version": "2.3.0",
   "description": "Nodejs and Javascript library for decoding data params and events from ethereum transactions\"",
   "main": "index.js",
@@ -42,5 +42,8 @@
     "mocha": "^5.2.0",
     "webpack": "^4.29.1",
     "webpack-cli": "^3.2.3"
+  },
+  "directories": {
+    "test": "test"
   }
 }

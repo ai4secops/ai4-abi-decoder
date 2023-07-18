@@ -1,16 +1,16 @@
-# ai4-abi-decoder fork abi-decoder
+# @ai4secops/ai4-abi-decoder fork from abi-decoder
 Nodejs and Javascript library for decoding data params and events from etherem transactions
 
 # Install
 ```
-npm install abi-decoder
-bower install abi-decoder
+npm install @ai4secops/ai4-abi-decoder
+bower install @ai4secops/ai4-abi-decoder
 ```
 
 # Instantiate
 ```js
-<script src="bower_components/abi-decoder/dist/abi-decoder.js"> // Javascript
-const abiDecoder = require('abi-decoder'); // NodeJS
+<script src="bower_components/@ai4secops/ai4-abi-decoder/dist/@ai4secops/ai4-abi-decoder.js"> // Javascript
+const abiDecoder = require('@ai4secops/ai4-abi-decoder'); // NodeJS
 ```
 
 # Add ABI's
