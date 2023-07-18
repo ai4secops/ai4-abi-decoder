@@ -1,6 +1,6 @@
 {
   "name": "@ai4secops/ai4-abi-decoder",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Nodejs and Javascript library for decoding data params and events from ethereum transactions\"",
   "main": "index.js",
   "scripts": {
